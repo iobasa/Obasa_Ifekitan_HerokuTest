@@ -1,0 +1,20 @@
+{
+  "name": "obasa_ifekitan_herokutest",
+  "version": "1.0.0",
+  "description": "PRODUCT PROMO APP - NodeJS with Express and Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iobasa/Obasa_Ifekitan_HerokuTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iobasa/Obasa_Ifekitan_HerokuTest/issues"
+  },
+  "homepage": "https://github.com/iobasa/Obasa_Ifekitan_HerokuTest#readme"
+}
