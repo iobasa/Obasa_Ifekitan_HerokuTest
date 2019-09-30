@@ -2,8 +2,14 @@
 @import "_vars";
 @import "modules/_navbar";
 @import "modules/_header";
+@import "modules/_body";
+
+.hidden {
+	display: hidden;
+}
 
 body {
+	background-color: #808080;
 	font-family: mr-eaves-xl-modern,sans-serif;
 font-weight: 300;
 font-style: normal;

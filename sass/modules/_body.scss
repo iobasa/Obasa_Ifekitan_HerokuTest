@@ -1,0 +1,193 @@
+
+#product img{
+    margin-top: 50px;
+    margin-left: 10%;
+    width: 80%;
+    transition: all 0.5s ease;
+}
+
+#product img:hover{
+    transform: scale(1.1);
+}
+
+#productInfo h1{
+    font-size: 50px;
+    margin-top: 30px;
+    padding-top: 40px;
+}
+
+#productInfo h2 {
+    font-family: mr-eaves-xl-modern,sans-serif;
+font-weight: 300;
+font-style: normal;
+text-align: center;
+font-size: 40px;
+margin-top: 30px;
+}
+
+#productInfo p{
+    padding: 20px;
+    margin-top: 30px;
+}
+
+#productInfo button{
+    font-family: orpheuspro,serif;
+font-weight: 400;
+font-style: normal;
+    font-size: 15px;
+    padding: 10px;
+    color: $body-bg;
+    background-color: grey;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#productInfo {
+    width: 80%;
+    height: 550px;
+    background-color: #fff;
+    margin-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: orpheuspro,serif;
+font-weight: 400;
+font-style: normal;
+    font-size: 15px;
+text-align: center;
+}
+
+
+.sub-section  {
+    margin-top: 50px;
+    font-family: mr-eaves-xl-modern,sans-serif;
+font-weight: 300;
+font-style: normal;
+text-align: center;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.sub-section p {
+    font-family: orpheuspro,serif;
+font-weight: 400;
+font-style: normal;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.sub-section a {
+    font-family: orpheuspro,serif;
+font-weight: 400;
+font-style: normal;
+font-size: 30px;
+color: $body-text-color;
+    text-decoration: none;
+    padding: 20px;
+    width: 40%;
+    border-bottom: solid 2px #fff;
+}
+
+#bot {
+    border: none;
+    margin-bottom: 50px;
+}
+
+@media screen and (min-width: 767px) {
+    
+#product img{
+    margin-top: 50px;
+    margin-left: 10%;
+    width: 80%;
+    transition: all 0.5s ease;
+}
+
+#product img:hover{
+    transform: scale(1.1);
+}
+
+#productInfo h1{
+    font-size: 50px;
+    margin-top: 30px;
+    padding-top: 40px;
+}
+
+#productInfo h2 {
+    font-family: mr-eaves-xl-modern,sans-serif;
+font-weight: 300;
+font-style: normal;
+text-align: center;
+font-size: 40px;
+margin-top: 30px;
+}
+
+#productInfo p{
+    padding: 20px;
+    margin-top: 30px;
+}
+
+#productInfo button{
+    font-family: orpheuspro,serif;
+font-weight: 400;
+font-style: normal;
+    font-size: 15px;
+    padding: 10px;
+    color: $body-bg;
+    background-color: grey;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#productInfo {
+    width: 40%;
+    height: 550px;
+    background-color: #fff;
+    margin-left: 30%;
+    margin-top: 50px;
+    font-family: orpheuspro,serif;
+font-weight: 400;
+font-style: normal;
+    font-size: 15px;
+text-align: center;
+}
+
+
+.sub-section  {
+    margin-top: 50px;
+    font-family: mr-eaves-xl-modern,sans-serif;
+font-weight: 300;
+font-style: normal;
+text-align: center;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.sub-section p {
+    font-family: orpheuspro,serif;
+font-weight: 400;
+font-style: normal;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.sub-section a {
+    font-family: orpheuspro,serif;
+font-weight: 400;
+font-style: normal;
+font-size: 30px;
+color: $body-text-color;
+    text-decoration: none;
+    padding: 20px;
+    width: 40%;
+    border-bottom: solid 2px #fff;
+}
+
+#bot {
+    border: none;
+    margin-bottom: 50px;
+}
+}
+
