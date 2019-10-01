@@ -7,7 +7,7 @@ const port = process.env.PORT || 3000; // a double pipe => || means "or"
 
 const app = express();
 
-app.use(express.static('public'))
+app.use(express.static('public'));
 
 app.get('/', (req, res) => {
   console.log('home page')
