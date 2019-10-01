@@ -210,12 +210,12 @@
 
 #productInfo button {
   font-family: orpheuspro,serif;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   font-size: 15px;
   padding: 10px;
-  color: #400703;
-  background-color: grey;
+  color: white;
+  background-color: #75263f;
   margin-bottom: 30px;
   margin-top: 30px; }
 
@@ -290,6 +290,8 @@
 
   #productInfo p {
     padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
     margin-top: 30px; }
 
   #productInfo button {
@@ -298,8 +300,8 @@
     font-style: normal;
     font-size: 15px;
     padding: 10px;
-    color: #400703;
-    background-color: grey;
+    color: white;
+    background-color: #75263f;
     margin-bottom: 30px;
     margin-top: 30px; }
 
@@ -351,7 +353,7 @@
   display: hidden; }
 
 body {
-  background-color: #808080;
+  background-color: #966979;
   font-family: mr-eaves-xl-modern,sans-serif;
   font-weight: 300;
   font-style: normal; }
