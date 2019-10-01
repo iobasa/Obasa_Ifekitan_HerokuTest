@@ -37,7 +37,7 @@ font-style: normal;
     font-size: 15px;
     padding: 10px;
     color: white;
-    background-color: grey;
+    background-color: #75263f;
     margin-bottom: 30px;
     margin-top: 30px;
 }
@@ -124,6 +124,8 @@ margin-top: 30px;
 
 #productInfo p{
     padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
     margin-top: 30px;
 }
 
@@ -133,8 +135,8 @@ font-weight: 400;
 font-style: normal;
     font-size: 15px;
     padding: 10px;
-    color: $body-bg;
-    background-color: grey;
+    color: white;
+    background-color: #75263f;
     margin-bottom: 30px;
     margin-top: 30px;
 }
