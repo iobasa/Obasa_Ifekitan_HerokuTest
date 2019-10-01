@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/iobasa/Obasa_Ifekitan_HerokuTest/issues"
   },
-  "homepage": "https://github.com/iobasa/Obasa_Ifekitan_HerokuTest#readme"
+  "homepage": "https://github.com/iobasa/Obasa_Ifekitan_HerokuTest#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
 }
